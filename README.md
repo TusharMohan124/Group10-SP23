@@ -1,7 +1,9 @@
-# Group 10
-Group Name: Group 10
+"Guppy Guru" - a fish tank simulator web-app meant to allow users to interact with virtual fish in a tank. This group project was done for my CS124 Honors section at UIUC. 
 
-[MVP Link](https://docs.google.com/document/d/1viztdoYW8ycVCIGo2WIv-xwo_nwSMjmlsOkazAC0V9A/edit?usp=share_link)
+I mainly worked on the 3D random movement and pellet-chasing behavior of the fish in the "Feed your Fish" section of the web-app.
+
+
+Group Name: Guppy Guru
 
 Team Members: jk88, rampo2, ardync2, tusharm4
 
